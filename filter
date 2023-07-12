@@ -1,0 +1,51 @@
+[Adblock Plus 2.0]
+! Version: 9
+! Title: My Personal Filter List
+! Last modified: 12 Jul 2023 04:48 UTC
+! Expires: 7 days (update frequency)
+! Homepage: 
+!
+||taboola.com^
+||advertising.apple.com^
+||metrics.mzstatic.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||data.mistat.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||metrics.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||grs.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||logbak.hicloud.com^
+||smetrics.samsung.com^
+||analytics-api.samsunghealthcn.com^
+||click.oneplus.cn^
+||open.oneplus.net^
+||ck.ads.oppomobile.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+||extmaps-api.yandex.net^
+||appmetrica.yandex.ru^
+||adfstat.yandex.ru^
+||metrika.yandex.ru^
+||advertising.yandex.ru^
+||udc.yahoo.com^
+||udcm.yahoo.com^
+||widgets.pinterest.com^
+||ads-api.tiktok.com^
+||analytics-sg.tiktok.com^
+||business-api.tiktok.com^
+||log.byteoversea.com^
+||events.hotjar.io^
+||analytics.google.com^
+||click.googleanalytics.com^
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+
+
+(all the rest of your custom filters)
